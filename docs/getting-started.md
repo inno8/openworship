@@ -17,12 +17,22 @@ Install Open Worship and get your first service running in minutes.
 
 ### Windows
 
-1. Download [Open-Worship-1.0.0-Setup.exe](https://github.com/inno8/open-worship/releases)
+1. Download [Open-Worship-Setup.exe](https://github.com/inno8/open-worship/releases/latest)
 2. Run the installer and follow the prompts
 3. Launch **Open Worship** from the Start Menu
 
-{: .note }
-Windows may show a SmartScreen warning since the app isn't code-signed. Click **More info** → **Run anyway**.
+{: .warning }
+**Windows SmartScreen Warning**
+
+Windows may show a "Windows protected your PC" warning because Open Worship is new and not yet code-signed. This is normal for new open-source apps.
+
+**To bypass SmartScreen:**
+
+1. When you see "Windows protected your PC", click **More info**
+2. Click **Run anyway**
+3. The installer will proceed normally
+
+This warning only appears the first time. The app is safe — it's [open source on GitHub](https://github.com/inno8/open-worship) and you can verify the code yourself.
 
 ### macOS
 
