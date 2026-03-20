@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Home
+title: Documentation
 nav_order: 1
-description: "Open Worship - Free, open-source church presentation software"
-permalink: /
+description: "Open Worship Documentation"
+permalink: /docs/
 ---
 
 # Open Worship

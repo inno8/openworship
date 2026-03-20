@@ -1,14 +1,14 @@
 title: Open Worship
 description: Free, open-source church presentation software for worship lyrics
 url: https://inno8.github.io
-baseurl: /openworship
+baseurl: /openworship/docs
 
 remote_theme: just-the-docs/just-the-docs
 
 color_scheme: dark
 
-logo: /openworship/assets/images/logo.png
-favicon_ico: /openworship/assets/images/logo.png
+logo: /openworship/docs/assets/images/logo.png
+favicon_ico: /openworship/docs/assets/images/logo.png
 
 search_enabled: true
 search:
