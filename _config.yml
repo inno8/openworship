@@ -18,8 +18,8 @@ search:
 aux_links:
   "Download":
     - "https://github.com/inno8/open-worship/releases"
-  "GitHub":
-    - "https://github.com/inno8/open-worship"
+  "Read the Docs":
+    - "/openworship/getting-started"
 
 aux_links_new_tab: true
 
